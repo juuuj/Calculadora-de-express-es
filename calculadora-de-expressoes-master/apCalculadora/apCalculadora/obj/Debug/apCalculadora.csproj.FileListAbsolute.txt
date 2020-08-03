@@ -1,0 +1,10 @@
+D:\Desktop\calculadora-de-expressoes-master\apCalculadora\apCalculadora\obj\Debug\apCalculadora.csprojAssemblyReference.cache
+D:\Desktop\calculadora-de-expressoes-master\apCalculadora\apCalculadora\obj\Debug\apCalculadora.Form1.resources
+D:\Desktop\calculadora-de-expressoes-master\apCalculadora\apCalculadora\obj\Debug\apCalculadora.Properties.Resources.resources
+D:\Desktop\calculadora-de-expressoes-master\apCalculadora\apCalculadora\obj\Debug\apCalculadora.csproj.GenerateResource.cache
+D:\Desktop\calculadora-de-expressoes-master\apCalculadora\apCalculadora\obj\Debug\apCalculadora.csproj.CoreCompileInputs.cache
+D:\Desktop\calculadora-de-expressoes-master\apCalculadora\apCalculadora\bin\Debug\apCalculadora.exe.config
+D:\Desktop\calculadora-de-expressoes-master\apCalculadora\apCalculadora\bin\Debug\apCalculadora.exe
+D:\Desktop\calculadora-de-expressoes-master\apCalculadora\apCalculadora\bin\Debug\apCalculadora.pdb
+D:\Desktop\calculadora-de-expressoes-master\apCalculadora\apCalculadora\obj\Debug\apCalculadora.exe
+D:\Desktop\calculadora-de-expressoes-master\apCalculadora\apCalculadora\obj\Debug\apCalculadora.pdb
